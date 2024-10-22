@@ -43,7 +43,7 @@ This application is a rule engine that determines user eligibility based on attr
 
 1. **Clone the Repository**
    ```bash
-   git clone "https://github.com/Kulashekar01/Rule-Engine-with-AST.git"
+   git clone ""
    cd rule-engine
    ```
 
@@ -145,4 +145,4 @@ variable operator value
 
 You can add and run tests to ensure everything is working correctly. 
 ```
-created by: Kulashekar Inkollu
+created by: Narsing Shireesh
